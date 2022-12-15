@@ -1,0 +1,93 @@
+{
+    "header": {
+        "format": 0,
+        "numTracks": 1,
+        "ticksPerBeat": 480
+    },
+    "tracks": [
+        [
+            {
+                "deltaTime": 0,
+                "meta": true,
+                "type": "trackName",
+                "text": "Guitar Heavy B"
+            },
+            {
+                "deltaTime": 0,
+                "meta": true,
+                "type": "setTempo",
+                "microsecondsPerBeat": 300000
+            },
+            {
+                "deltaTime": 0,
+                "meta": true,
+                "type": "timeSignature",
+                "numerator": 4,
+                "denominator": 4,
+                "metronome": 24,
+                "thirtyseconds": 8
+            },
+            {
+                "deltaTime": 0,
+                "channel": 0,
+                "type": "noteOn",
+                "noteNumber": 48,
+                "velocity": 100
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOff",
+                "noteNumber": 48,
+                "velocity": 64
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOn",
+                "noteNumber": 48,
+                "velocity": 100
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOff",
+                "noteNumber": 48,
+                "velocity": 64
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOn",
+                "noteNumber": 48,
+                "velocity": 100
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOff",
+                "noteNumber": 48,
+                "velocity": 64
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOn",
+                "noteNumber": 48,
+                "velocity": 100
+            },
+            {
+                "deltaTime": 960,
+                "channel": 0,
+                "type": "noteOff",
+                "noteNumber": 48,
+                "velocity": 64
+            },
+            {
+                "deltaTime": 960,
+                "meta": true,
+                "type": "endOfTrack"
+            }
+        ]
+    ]
+}

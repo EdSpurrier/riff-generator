@@ -1,0 +1,30 @@
+{
+  "name": "riff-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "midi": "node midi/main.js",
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdSpurrier/riff-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdSpurrier/riff-generator/issues"
+  },
+  "homepage": "https://github.com/EdSpurrier/riff-generator#readme",
+  "dependencies": {
+    "easymidi": "^3.0.1",
+    "midi": "^2.0.0",
+    "midi-file": "^1.2.3",
+    "midi-player-js": "^2.0.16"
+  },
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}

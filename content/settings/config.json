@@ -1,0 +1,20 @@
+{
+    "ticksPerBeat": 480,
+    "tempo" : 120,
+    "input_folder" : "./content/midi/jumpy/",
+    "input_file" : "Dualing Melody 2 - Wage War - Ghost.mid.mid",
+    "output_folder" : "./content/output/jumpy-1/",
+    "output_name" : "Wage War - Ghost",
+    "generate" : {
+        "count"         : 5,
+        "shortest"      : 32,
+        "longest"       : 4,
+        "majority"      : 0.2,
+        "spaces"        : 0.2,
+        "bars"          : 4,
+        "timeSignature" : {
+            "beats" : 4,
+            "measure" : 4
+        }
+    }
+}
